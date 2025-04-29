@@ -6,9 +6,9 @@ Este projeto faz parte do primeiro desafio do bootcamp
 
 ## 🎯 Objetivo do Desafio
 
-O desafio propõe a criação de um Copiloto personalizado utilizando o **Microsoft Copilot Studio**, 
-com base na demonstração prática apresentada no curso. O modelo utilizado neste projeto 
-foi o **Agente de Viagens**, uma opção sugerida no próprio conteúdo da plataforma.
+> O desafio propõe a criação de um Copiloto personalizado utilizando o **Microsoft Copilot Studio**, 
+> com base na demonstração prática apresentada no curso. O modelo utilizado neste projeto 
+> foi o **Agente de Viagens**, uma opção sugerida no próprio conteúdo da plataforma.
 
 
 ## ✨ Tipos de Criação no Copilot Studio
@@ -60,3 +60,29 @@ para aprofundar seu conhecimento.
 ---
 
 🚀 Projeto criado com sucesso no Microsoft Copilot Studio!
+
+---
+
+## 📌 Créditos e Contato
+
+> Criado por **SILVIA GUIMARÃES** 
+
+Para dúvidas ou sugestões, entre em contato comigo:
+- **E-mail:** (sguimaraes1004@gmail.com)
+- **Redes Sociais: [LinkedIn](https://www.linkedin.com/in/silvia-maria-guimar%C3%A3es-costa-3a01b423b)**
+  
+---
+
+## 🙏 Agradecimentos
+
+Agradeço à equipe da **DIO** e **MICROSOFT** pela oportunidade de participar deste desafio e ampliar minhas habilidades em IA.  
+Este projeto reflete o aprendizado prático e meu compromisso com boas práticas na área de tecnologia.
+
+---
+
+_A parceria com a Microsoft reforça o compromisso de promover a inovação e o aprendizado na área de tecnologia._
+
+---
+
+
+# ![DIO Logo](https://hermes.digitalinnovation.one/assets/diome/logo.png)
